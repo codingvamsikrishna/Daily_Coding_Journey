@@ -1,0 +1,7 @@
+# Sorting List Example
+
+numbers = [5, 2, 8, 1]
+
+numbers.sort()
+
+print(numbers)
