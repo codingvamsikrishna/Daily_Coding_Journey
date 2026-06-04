@@ -1,6 +1,6 @@
 # Loops
 
-This folder contains Python loop examples and practice programs.
+This folder contains Python loop examples and practice programs. 
 
 ## Files
 
