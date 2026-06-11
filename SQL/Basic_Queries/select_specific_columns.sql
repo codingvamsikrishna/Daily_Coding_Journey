@@ -1,2 +1,2 @@
 SELECT name, salary
-FROM employees;
+FROM employees;  
