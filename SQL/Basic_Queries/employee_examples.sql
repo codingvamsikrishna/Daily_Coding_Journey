@@ -1,5 +1,5 @@
 SELECT name
-FROM employees;
+FROM employees; 
 
 
 SELECT salary
