@@ -1,2 +1,3 @@
 SELECT DISTINCT department
-FROM employees;
+FROM employees; 
+ 
