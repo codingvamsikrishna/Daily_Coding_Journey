@@ -1,3 +1,3 @@
 SELECT *
 FROM employees
-LIMIT 2;
+LIMIT 2; 
