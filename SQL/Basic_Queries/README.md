@@ -19,5 +19,5 @@ This folder contains beginner SQL query examples.
 - CREATE TABLE
 - INSERT INTO
 - SELECT
-- DISTINCT
+- DISTINCT 
 - LIMIT
