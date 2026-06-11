@@ -5,4 +5,4 @@ CREATE TABLE employees (
     department VARCHAR(50),
     salary INT
 
-);
+); 
