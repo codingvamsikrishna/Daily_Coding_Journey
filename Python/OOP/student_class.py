@@ -16,3 +16,4 @@ class Student:
 student = Student("Vamsi", "MCA")
 
 student.display()
+
