@@ -21,3 +21,4 @@ This folder contains beginner-friendly Python mini projects.
 - Loops
 - Functions
 - Basic Project Logic
+
