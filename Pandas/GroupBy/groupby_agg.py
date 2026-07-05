@@ -8,3 +8,4 @@ result = df.groupby("Department").agg({
 })
 
 print(result)
+
