@@ -6,3 +6,4 @@ result = df[df["Salary"].between(45000, 60000)]
 
 print(result)
 
+
