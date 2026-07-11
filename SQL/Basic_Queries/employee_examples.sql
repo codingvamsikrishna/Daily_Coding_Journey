@@ -8,3 +8,4 @@ FROM employees;
 
 SELECT department
 FROM employees;
+
