@@ -6,3 +6,4 @@ departments = pd.read_csv("departments.csv")
 result = pd.merge(employees, departments, on="DepartmentID")
 
 print(result)
+
