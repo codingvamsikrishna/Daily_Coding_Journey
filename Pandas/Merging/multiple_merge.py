@@ -8,3 +8,4 @@ result = employees.merge(departments,on="DepartmentID") \
                   .merge(locations,on="DepartmentID")
 
 print(result)
+
