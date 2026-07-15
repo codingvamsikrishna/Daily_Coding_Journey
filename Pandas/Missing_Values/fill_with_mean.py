@@ -7,3 +7,4 @@ average_salary = df["Salary"].mean()
 df["Salary"] = df["Salary"].fillna(average_salary)
 
 print(df)
+
