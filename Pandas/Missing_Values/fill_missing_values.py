@@ -7,3 +7,4 @@ new_df = df.fillna("Not Available")
 print(new_df)
 
 
+
